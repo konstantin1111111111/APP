@@ -14,10 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/konstantin1111111111/APP/issues"
-  },
-  "homepage": "https://github.com/konstantin1111111111/APP#readme",
+  
   "description": "",
   "dependencies": {
     "react": "^19.1.0",
