@@ -4,7 +4,7 @@ import {About} from './components/About/About';
 import {Skills}  from './components/Skills/Skills';
 import {Contacts} from './components/Contacts/Contacts';
 import {Footer}  from './components/Footer/Footer';
-import "./APP.css"
+import "./App.css"
 export function App() {
   return (
     <div className="app">
