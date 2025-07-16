@@ -6,7 +6,7 @@ export function About() {
     <section className="section about">
       <h2 className="section__title">О проекте</h2>
       <p className="section__text">
-        Данный проект демонстрирует мои навыки в инженерном конструировании.
+        Данный проект демонстрирует сконструированную мной модель блочного ТЭНа.
 
    
       </p>
