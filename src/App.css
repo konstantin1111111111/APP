@@ -48,11 +48,19 @@ body {
   color: #2d88ff;
   margin-bottom: 12px;
 }
+.section__title__model{
 
+ font-size: 22px;
+  color: #2d88ff;
+  margin-bottom: 50px;
+  font-weight: 700;
+
+}
 .section__text {
   font-size: 15px;
   line-height: 1.5;
   color: #4b4f56;
+    margin-bottom: 22px;
 }
 
 .about__image {
