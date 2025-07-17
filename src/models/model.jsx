@@ -13,7 +13,7 @@ export default function ModelViewer() {
       <ambientLight intensity={0.5} />
       <directionalLight />
       <Suspense fallback={null}>
-      <Model url="/блок ТЭН.glb" />
+      <Model url="/TEN.glb" />
 
       </Suspense>
       <OrbitControls />
